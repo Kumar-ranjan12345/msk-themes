@@ -2,9 +2,10 @@
   "name": "msk-themes",
   "version": "1.0.0",
   "description": "",
-  "main": "msk-themes.min.js",
+  "main": "index.js",
   "scripts": {
-    "build": "webpack ."
+    "build": "webpack .",
+    "push": "sh push.sh"
   },
   "keywords": [],
   "repository": {
